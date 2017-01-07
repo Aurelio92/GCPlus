@@ -1,5 +1,5 @@
 # GC+ - What is it?
-GC+ is a custom board that acts as a Gamecube controller with an upgradable firmware and custom firmware.
+GC+ is a custom board that acts as a Gamecube controller with an upgradable firmware and custom features.
 Video reference: https://www.youtube.com/watch?v=MTG2iqWmXx4
 
 # How to make one?
